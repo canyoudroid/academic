@@ -8,5 +8,5 @@ author: admin
 widget_id: biblography
 design:
   background:
-    image: thor.jpeg
+    image: ""
 ---
